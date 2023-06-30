@@ -1,0 +1,393 @@
+.statusminiIcon {
+  position: absolute;
+  top: 21px;
+  right: 11px;
+  width: 68px;
+  height: 13px;
+}
+.time {
+  position: absolute;
+  top: 11.75px;
+  left: 16px;
+  letter-spacing: -0.28px;
+  font-weight: 600;
+}
+.backlinkIcon,
+.search {
+  position: absolute;
+  top: 0;
+  left: 20.69%;
+}
+.backlinkIcon {
+  height: 61.54%;
+  width: 13.79%;
+  top: 17.76%;
+  right: 85.14%;
+  bottom: 20.71%;
+  left: 1.07%;
+  border-radius: var(--br-12xs-5);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.deeplink {
+  position: absolute;
+  top: 34px;
+  left: 8px;
+  width: 58px;
+  height: 13px;
+  text-align: left;
+  font-size: var(--font-size-2xs);
+}
+.cameraIndicator {
+  position: absolute;
+  top: 6.66px;
+  left: 307.66px;
+  border-radius: 50%;
+  background-color: var(--color-lightgreen);
+  width: 6.34px;
+  height: 6.34px;
+}
+.statusBarmini {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 50px;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  font-family: var(--p2);
+}
+.homeIndicator {
+  position: absolute;
+  bottom: 8px;
+  left: calc(50% - 66.5px);
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  width: 133px;
+  height: 5px;
+}
+.homeBarmini {
+  position: absolute;
+  top: 778px;
+  left: 0;
+  width: 375px;
+  height: 34px;
+}
+.icon {
+  top: 177px;
+  left: 0;
+  width: 375px;
+  height: 375px;
+  object-fit: cover;
+}
+.child,
+.div1,
+.icon {
+  position: absolute;
+}
+.child {
+  top: 562px;
+  left: 161px;
+  width: 54px;
+  height: 9.89px;
+}
+.div1 {
+  top: 574px;
+  left: 126px;
+  font-size: var(--p2-size);
+  letter-spacing: -0.28px;
+  font-weight: 300;
+  color: var(--color-gray-200);
+  text-align: center;
+}
+.p {
+  margin: 0;
+}
+.b {
+  position: absolute;
+  top: 85px;
+  left: 16px;
+  letter-spacing: -0.28px;
+}
+.bookmarkIcon {
+  position: absolute;
+  top: 8.75px;
+  left: 221px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.b1 {
+  position: absolute;
+  top: 34.75px;
+  left: 218px;
+  letter-spacing: 0.01em;
+}
+.settingsIcon {
+  top: 8.75px;
+  left: 317px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  display: none;
+}
+.b2,
+.globeIcon,
+.settingsIcon {
+  position: absolute;
+}
+.b2 {
+  top: 34.75px;
+  left: 319px;
+  letter-spacing: 0.01em;
+  display: none;
+}
+.globeIcon {
+  top: 8.75px;
+  left: 128px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.b3 {
+  top: 34.75px;
+  left: 130px;
+  letter-spacing: 0.01em;
+}
+.b3,
+.b4,
+.homeIcon {
+  position: absolute;
+}
+.homeIcon {
+  top: 8.75px;
+  left: 34px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.b4 {
+  top: 35px;
+  left: 41px;
+  letter-spacing: 0.01em;
+  color: var(--color-white);
+}
+.backlinkIcon1,
+.uitabbar {
+  position: absolute;
+  left: 0;
+  overflow: hidden;
+}
+.uitabbar {
+  top: 718.25px;
+  background-color: var(--color-darkgray-200);
+  width: 375px;
+  height: 94px;
+  color: var(--color-darkslategray-100);
+}
+.backlinkIcon1 {
+  height: 61.54%;
+  width: 13.79%;
+  top: 15.38%;
+  right: 86.21%;
+  bottom: 23.08%;
+  border-radius: var(--br-12xs-5);
+  max-width: 100%;
+  max-height: 100%;
+}
+.b5 {
+  top: 78px;
+  left: 8px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.28px;
+  font-family: var(--font-noto-sans-kr);
+}
+.b5,
+.iconPerson,
+.my {
+  position: absolute;
+}
+.my {
+  top: 753px;
+  left: 314px;
+  letter-spacing: 0.01em;
+  color: var(--color-dimgray-100);
+}
+.iconPerson {
+  height: 3.82%;
+  width: 8.26%;
+  top: 89.16%;
+  right: 9.61%;
+  bottom: 7.02%;
+  left: 82.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div2 {
+  top: 0;
+  left: 410px;
+  background: linear-gradient(180deg, #83a4d4, #b6fbff);
+  width: 375px;
+  height: 812px;
+  overflow: hidden;
+  font-size: var(--font-size-2xs);
+  font-family: var(--font-noto-sans);
+}
+.b6,
+.div2,
+.globeIcon1 {
+  position: absolute;
+}
+.globeIcon1 {
+  top: 0;
+  left: 6px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.b6 {
+  top: 26.75px;
+  left: 0;
+  letter-spacing: 0.01em;
+}
+.globeParent,
+.homeIcon1 {
+  position: absolute;
+  top: 12px;
+  left: 113px;
+  width: 37px;
+  height: 41.75px;
+}
+.homeIcon1 {
+  top: 0;
+  left: 4px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.home {
+  position: absolute;
+  top: 27px;
+  left: 0;
+  letter-spacing: 0.01em;
+}
+.homeParent {
+  position: absolute;
+  top: 12px;
+  left: 30px;
+  width: 32px;
+  height: 42px;
+  color: var(--color-white);
+}
+.groupIcon {
+  position: absolute;
+  height: 55.65%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 44.35%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconPerson1,
+.parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 18.07px;
+  height: 41.75px;
+}
+.iconPerson1 {
+  top: 12px;
+  left: 316px;
+}
+.homeBarmini2 {
+  top: 60px;
+  width: 375px;
+  height: 34px;
+}
+.b8,
+.homeBarmini2,
+.uitabbar1 {
+  position: absolute;
+  left: 0;
+}
+.uitabbar1 {
+  top: 0;
+  background-color: var(--color-darkgray-200);
+  width: 375px;
+  height: 94px;
+  overflow: hidden;
+}
+.b8 {
+  top: 29.75px;
+  letter-spacing: 0.01em;
+}
+.iconMessageCircleOutline {
+  position: absolute;
+  height: 67.04%;
+  width: 46.88%;
+  top: 0;
+  right: 26.56%;
+  bottom: 32.96%;
+  left: 26.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group,
+.uitabbarParent {
+  position: absolute;
+  top: 9px;
+  left: 201px;
+  width: 64px;
+  height: 44.75px;
+}
+.uitabbarParent {
+  top: 718px;
+  left: 0;
+  width: 375px;
+  height: 94px;
+  font-size: var(--font-size-2xs);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-noto-sans);
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background: linear-gradient(180deg, #418dff, #003789);
+  width: 161px;
+  height: 52px;
+}
+.click {
+  position: absolute;
+  top: 12px;
+  left: 53px;
+  font-weight: 800;
+}
+.rectangleParent {
+  position: absolute;
+  top: 489px;
+  left: 104px;
+  width: 161px;
+  height: 52px;
+  cursor: pointer;
+  font-family: var(--font-roboto);
+}
+.div {
+  position: relative;
+  background: linear-gradient(180deg, #83a4d4, #b6fbff);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-noto-sans-kr);
+}
